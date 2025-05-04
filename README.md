@@ -80,7 +80,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/credikhaata.git
+git clone https://github.com/aliabrar21/credi-khaata.git
 cd credikhaata
 2️⃣ Install dependencies
 
